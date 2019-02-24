@@ -11,9 +11,8 @@ Then now this project of "typist's clock" is to mimick a human typist whose job 
 When this program runs, you can imagine you hire a human typist and ask him/her to continuously update the current time in your favorite text editor such as MS-Word, MS-PowerPoint and so on. Probably, this is the most expensive clock because you hire a human operator 24/7 :-)
 
 ## What is it? How it works?
-No installation is needed. Just download and run the executable. Put your cursor in any your favorite text editor.
+No installation is needed. Just download the exe file and run the executable. 
 And follow the instruction below.
-
 
 ## Requirements
 Windows Operating System (tested in Windows 10)
@@ -21,6 +20,7 @@ Windows Operating System (tested in Windows 10)
 ## How to use it?
 
 1. Run the executable (or, install Autohotkey and run the script file).
-2. For clock, press F1. For timer, press F2.
-3. To quit, press ESC.
-4. When you change the focus to another windows, the program quits automatically.
+2. Put your cursor in any your favorite text editor.
+3. For clock, press F1. For timer, press F2.
+4. To quit, press ESC.
+5. When you change the focus to another windows, the program quits automatically.
