@@ -14,6 +14,10 @@ When this program runs, you can imagine you hire a human typist and ask him/her 
 No installation is needed. Just download the exe file and run the executable. 
 And follow the instruction below.
 
+![alt text](https://github.com/vinviny/typistclocktimer/blob/master/clock.gif)
+![alt text](https://github.com/vinviny/typistclocktimer/blob/master/timer.gif)
+
+
 ## Requirements
 Windows Operating System (tested in Windows 10)
 
